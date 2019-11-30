@@ -14,7 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
 import java.io.IOException;
 
-@WebServlet("/")
 public class FrontServlet extends HttpServlet {
     private DemoRepository repository;
 
