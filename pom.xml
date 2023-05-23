@@ -18,7 +18,7 @@
         <javax.servlet.jsp-api.version>2.3.3</javax.servlet.jsp-api.version>
         <webapp-runner.version>9.0.24.1</webapp-runner.version>
         <tomcat-dbcp.version>9.0.24</tomcat-dbcp.version>
-        <sqlite-jdbc.version>3.28.0</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.41.2.2</sqlite-jdbc.version>
         <lib.version>1.0</lib.version>
         <app.version>1.0</app.version>
     </properties>
